@@ -6,7 +6,7 @@ var _tween: Tween
 var dialogueIndex = 0
 
 func _ready() -> void:
-	show_text("Lorem ipsum dolor sit amet, consectetur adipiscing elit. s, ")
+	show_text("This is you.")
 func _input(event: InputEvent) -> void:
 	if event is InputEventMouseButton and event.pressed and event.button_index == MOUSE_BUTTON_LEFT:
 		if _tween and _tween.is_valid() and _tween.is_running():
@@ -14,9 +14,9 @@ func _input(event: InputEvent) -> void:
 		else:
 			dialogueIndex += 1
 			if dialogueIndex == 1:
-				show_text("Lorem ipsum dolor sit amet, consectetur adipiscing elit. s, ")
+				show_text("Every night you have the same dream. You are but a small bug, fighting for your life")
 			if dialogueIndex == 2:
-				show_text("Hihihihihihihihihi")
+				show_text("Try not to die")
 			if dialogueIndex == 3:
 				get_tree().change_scene_to_file("res://Scenes/level.tscn")
 func show_text(bbcode_text: String) -> void:
