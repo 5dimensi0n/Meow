@@ -7,8 +7,7 @@
 To play it you have to download the zip, open it and run it!
 (or alternativwely visit the github page for it )https://kirbuke.itch.io/do-bugs-dream
 
-https://github.com/user-attachments/assets/92003a11-6cb8-4fd7-87a4-ff2f5d2e7bc9
-Progress video!! ↑↑
+https://github.com/user-attachments/assets/92003a11-6cb8-4fd7-87a4-ff2f5d2e7bc9 <<Progress video!!
 
 The project was made using godot and the assets were all made by me in a traditional medium! Woohoo!! I used Krita (A free drawing software I reccomend) to touch up and isolate my traditional drawings.
 This is my first time using godot so its bound to be a little unoptimized gulppp I tried my best! My main problem was getting the camera shake to work how i wanted to.
