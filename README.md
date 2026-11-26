@@ -15,8 +15,8 @@ This was originally going to be for a game jam but i took too long juggling scho
 To make this project i didnt use as many video tutorials as i prefer forum posts but i heavily reccomend the official godot forum for any problems you face!
 I went into this project a bit blind as to how godot works and hoped my prior knowledge of python and general game design would carry me (which it didnt)
 https://github.com/user-attachments/assets/92003a11-6cb8-4fd7-87a4-ff2f5d2e7bc9 <<Progress video!!
-<img width="1217" height="751" alt="Screenshot From 2026-11-22 02-32-32" src="https://github.com/user-attachments/assets/605a202d-3782-4780-8745-75b3ec21ba26" />
 
 I am PLANNING to maybe get music for the game and adding more levels but school is kicking my butt right now so we'll have to see dot dot dot...
 
 Overall I am really proud of this project and i learned A LOT about godot, especially the structure of the program and games made using it. I will use this knowledge to make a game that is more logical in its structure so adding new features would be easier.
+<img width="1217" height="751" alt="Screenshot From 2026-11-22 02-32-32" src="https://github.com/user-attachments/assets/605a202d-3782-4780-8745-75b3ec21ba26" />
