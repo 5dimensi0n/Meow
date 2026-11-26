@@ -8,7 +8,7 @@ To play it you have to download the zip, open it and run it!
 (or alternativwely visit the github page for it )https://kirbuke.itch.io/do-bugs-dream
 
 The project was made using godot and gdscript and the assets were all made by me in a traditional medium! Woohoo!! I used Krita (A free drawing software I reccomend) to touch up and isolate my traditional drawings.
-This is my first time using godot so its bound to be a little unoptimized gulppp but hey I tried my best! My main problem was getting the camera shake to work how i wanted to.
+This is my first time using godot so its bound to be a little unoptimized gulppp but hey I tried my best! My main problem was getting the camera shake to work how i wanted to but i had a lot of fun figuring out how cutscenes worked as i've never actually done them before!
 I had trouble connecting github to godot so i manually uploaded the files here.
 
 This was originally going to be for a game jam but i took too long juggling school AND this project
