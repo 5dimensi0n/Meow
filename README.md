@@ -19,3 +19,4 @@ https://github.com/user-attachments/assets/92003a11-6cb8-4fd7-87a4-ff2f5d2e7bc9 
 
 I am PLANNING to maybe get music for the game and adding more levels but school is kicking my butt right now so we'll have to see dot dot dot...
 
+Overall I am really proud of this project and i learned A LOT about godot, especially the structure of the program and games made using it. I will use this knowledge to make a game that is more logical in its structure so adding new features would be easier.
